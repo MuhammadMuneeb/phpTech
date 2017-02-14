@@ -1,0 +1,10 @@
+{
+    "autoload":{
+      "psr-4":{
+        "phpTech\\core\\": "./core",
+        "app\\controllers\\": "./controllers"
+
+      }
+
+      }
+    }

@@ -1,0 +1,1 @@
+<p>Welcome comrade!</p>
